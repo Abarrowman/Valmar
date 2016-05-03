@@ -1,0 +1,38 @@
+Valmar
+By Adam Barrowman
+
+To play the game go to bin.
+Run Valmar.jar to play the faster, windowed, more stable  version. That must be downloaded.
+Run index.html to play the slower, in  browser, less stable, suffering from problems when saving at school due to security reasons. That need not be downloaded.
+Please note files in bin are needed to run Valmar (scripts and images, are vital for both versions of Valmar and game is needded for the applet version).
+Please note java 1.6 is needed to run Valmar.
+
+
+Controls:
+Use the Keyboard to move your player and collide with doors, NPCs and enemies to interact with them (attacking enemies).
+Use the mouse to move your player when adjacent to doors and NPCs click on them to interact and click on enemies to move up and attack them. You also use your mouse to select items in your inventory and to operate buttons.
+Keyboard short cuts exists for all buttons mouse over them to find the short cut.
+To use items in you inventory click on the red potion in the corner of their image.
+
+
+Playing the Game:
+You start in a village walk around, buy some food and get some quests. Rember to be adjacent to doors and NPCs to interact with them.
+Then leave the village and find some monsters, as soon as they see you combat will begin.
+When in combat you use AP to perform actions, when you run out the enemies will take turns then your AP will be filled up again.
+Attack enemies if you are confidant they won't kill you. If not go to your inventory and use healing items such as food.
+If you relise that you are in a much to hard fight simply run away.
+When you kill enemies go into your inventory to pick up what they drop.
+When you've completed a quest go back to town for a reward and spend the gold to buy more healing items and armor.
+Rember to equip armor and weapons you find.
+To save your progress to the hard dive press the save button.
+If you die you will return to the start but can load a saved file.
+If you gain enough Xp you will level you can then increas one of your stats in the inventory.
+
+
+To see the code go to src.
+The code is organized by package.
+Please ote .java files are simply utf-8 text files with \n newline characters.
+
+
+To see the clean and fancy documentation go to doc.
+Run index.html
